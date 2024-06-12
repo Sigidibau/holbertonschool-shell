@@ -1,2 +1,2 @@
 #!/bin/bash
-find mindepth 10 -type f | wc -1
+ls -t | head -10
